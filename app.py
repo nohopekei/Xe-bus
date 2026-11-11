@@ -229,7 +229,7 @@ with tab_route:
         st.info("Chọn điểm xuất phát, điểm đến rồi nhấn “Tìm đường đi ngắn nhất”.")
 
 with tab_network:
-    st.subheader("Phân tích mạng lưới bằng 4 thuật toán")
+    st.subheader("Phân tích mạng lưới bằng 3 thuật toán")
     default_start = stop_ids[0]
     bfs_start = st.selectbox(
         "Chọn trạm bắt đầu cho BFS",
