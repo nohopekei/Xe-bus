@@ -1,1 +1,6 @@
-# Khong can cai them thu vien ben ngoai.
+
+streamlit
+folium
+streamlit-folium
+pandas
+
